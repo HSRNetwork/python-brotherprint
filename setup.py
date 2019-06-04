@@ -10,4 +10,5 @@ setup(
     license='LICENSE.txt',
     description='Wrapper for Brother networked label printing commands.',
     long_description=open('README').read(),
+    install_requires=['six']
 )
